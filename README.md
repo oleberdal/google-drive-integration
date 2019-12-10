@@ -1,1 +1,1 @@
-A python script that can work with Google Drive.
+A python script that works with Google Drive.
